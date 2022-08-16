@@ -1,2 +1,1 @@
-xzcvdfgsda sd
-q
+console.log("Hello");
