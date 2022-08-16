@@ -3,3 +3,6 @@ ini adalah file baru
 ini adalah baris selanjutnya
 
 asdfsadfsadfsadfsdf
+
+ini baris akhir
+
