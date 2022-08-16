@@ -1,5 +1,2 @@
-console.log("AAAAAAAA");
-
-var credential = {
-
-}
+xzcvdfgsda sd
+q
